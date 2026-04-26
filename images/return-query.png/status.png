@@ -1,0 +1,64 @@
+============================================================
+🤖 RAG CUSTOMER SUPPORT ASSISTANT
+============================================================
+✅ Loaded 8 support categories
+✅ Intent detection ready
+
+💡 Instructions:
+   • Type your question naturally
+   • Type 'human' to speak to a real person
+   • Type 'status' to see system stats
+   • Type 'exit' to quit
+
+--------------------------------------------------
+👤 Customer: I want to return my product
+🎯 Intent: returns_refunds | Confidence: 20%
+📚 Retrieved 1 relevant answers
+⚠️ Low confidence - escalating to human...
+
+==================================================
+👨‍💼 HUMAN-IN-THE-LOOP ESCALATION
+==================================================
+📋 Reason: Low confidence (20%)
+👤 Question: I want to return my product
+🤖 Bot said: 💰 I understand you need help with a return or refund. You can return items within 30 days of purchase for a full refund. Items must be unused and in original packaging. Refunds are processed within 5-7 business days to your original payment method.
+
+⚠️ I'm not completely sure. Type 'human' to speak to an agent.
+--------------------------------------------------
+📢 Notifying available agents...
+👨‍💼 Human Agent Response: Where is my order?
+==================================================
+
+🤖 Assistant: Where is my order?
+
+--------------------------------------------------
+👤 Customer: I forgot my password
+🎯 Intent: account_management | Confidence: 14%
+📚 Retrieved 1 relevant answers
+⚠️ Low confidence - escalating to human...
+
+==================================================
+👨‍💼 HUMAN-IN-THE-LOOP ESCALATION
+==================================================
+📋 Reason: Low confidence (14%)
+👤 Question: I forgot my password
+🤖 Bot said: 🔐 I can help with your account-related questions. To create an account, click 'Sign Up' on our website. For password reset, use 'Forgot Password' on the login page. Account deletion requests can be submitted to support.
+
+⚠️ I'm not completely sure. Type 'human' to speak to an agent.
+--------------------------------------------------
+📢 Notifying available agents...
+👨‍💼 Human Agent Response: status
+==================================================
+
+🤖 Assistant: status
+
+--------------------------------------------------
+👤 Customer: status
+
+📊 System Status:
+   • Queries processed: 3
+   • Human handoffs: 2
+   • Active intents: 8
+   • RAG System: Active
+
+--------------------------------------------------
