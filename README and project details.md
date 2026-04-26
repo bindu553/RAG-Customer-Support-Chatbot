@@ -7,6 +7,7 @@ A complete RAG (Retrieval-Augmented Generation) customer support chatbot with In
 
 ### 1. Returns & Refunds Query
 ![Returns Query](images/return-query.png)
+<img width="940" height="332" alt="image" src="https://github.com/user-attachments/assets/0920deb4-7aca-4df5-a07b-4b013361ae47" />
 
 ### 2. Shipping & Tracking Query
 ![Shipping Query](images/shipping-query.png)
