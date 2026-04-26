@@ -6,20 +6,24 @@ A complete RAG (Retrieval-Augmented Generation) customer support chatbot with In
 ## 📸 Output Screenshots
 
 ### 1. Returns & Refunds Query
-![Returns Query](images/return-query.png)
+
 <img width="940" height="332" alt="image" src="https://github.com/user-attachments/assets/0920deb4-7aca-4df5-a07b-4b013361ae47" />
 
 ### 2. Shipping & Tracking Query
-![Shipping Query](images/shipping-query.png)
+<img width="940" height="343" alt="image" src="https://github.com/user-attachments/assets/b27eed6c-afd3-4905-a2a8-aa920116eeb0" />
+
 
 ### 3. System Status
-![System Status](images/status.png)
+
+<img width="940" height="343" alt="image" src="https://github.com/user-attachments/assets/1a9e8f1c-dc0c-425f-9e58-e7f8cfc2b22f" />
 
 ### 4. Human-in-the-Loop (HITL) Escalation
-![HITL](images/hitl.png)
+
+<img width="940" height="345" alt="image" src="https://github.com/user-attachments/assets/08bc9429-8d2e-4207-8b9f-cba205a2a3bf" />
 
 ### 5. Session Summary on Exit
-![Exit Summary](images/exit-summary.png)
+<img width="940" height="161" alt="image" src="https://github.com/user-attachments/assets/9f27e452-ac51-4886-868c-be6695fdf1db" />
+
 
 ## Sample Conversation
 👤 Customer: I want to return my product
