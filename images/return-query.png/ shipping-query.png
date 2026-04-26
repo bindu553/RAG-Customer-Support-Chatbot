@@ -1,0 +1,18 @@
+============================================================
+🤖 RAG CUSTOMER SUPPORT ASSISTANT
+============================================================
+✅ Loaded 8 support categories
+✅ Intent detection ready
+
+💡 Instructions:
+   • Type your question naturally
+   • Type 'human' to speak to a real person
+   • Type 'status' to see system stats
+   • Type 'exit' to quit
+
+--------------------------------------------------
+👤 Customer: I want to return my product
+🎯 Intent: returns_refunds | Confidence: 20%
+📚 Retrieved 1 relevant answers
+⚠️ Low confidence - escalating to human...
+
