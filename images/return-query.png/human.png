@@ -1,0 +1,31 @@
+👤 Customer: human
+
+🔄 Transferring to human support...
+
+==================================================
+👨‍💼 HUMAN-IN-THE-LOOP ESCALATION
+==================================================
+📋 Reason: Direct human request
+👤 Question: human
+🤖 Bot said: User requested human
+--------------------------------------------------
+📢 Notifying available agents...
+👨‍💼 Human Agent Response: How do I get a refund?
+==================================================
+
+👨‍💼 Agent: How do I get a refund?
+
+--------------------------------------------------
+👤 Customer: How do I get a refund?
+🎯 Intent: returns_refunds | Confidence: 20%
+📚 Retrieved 1 relevant answers
+⚠️ Low confidence - escalating to human...
+
+==================================================
+👨‍💼 HUMAN-IN-THE-LOOP ESCALATION
+==================================================
+📋 Reason: Low confidence (20%)
+👤 Question: How do I get a refund?
+🤖 Bot said: 💰 I understand you need help with a return or refund. You can return items within 30 days of purchase for a full refund. Items must be unused and in original packaging. Refunds are processed within 5-7 business days to your original payment method.
+
+⚠️ I'm not completely sure. Type 'human' to speak to an agent.
